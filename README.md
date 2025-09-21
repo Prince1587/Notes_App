@@ -3,7 +3,7 @@
 A beautiful, modern notes application built with React and Tailwind CSS featuring glassmorphism design, auto-save functionality, and complete CRUD operations.
 ## 🌐 Live Demo
 
-[**View Live App**](https://your-app-url.com) 
+[**🚀 View Live App**](https://notes-app-55fq.vercel.app/) 
 
 ## ✨ Features
 
