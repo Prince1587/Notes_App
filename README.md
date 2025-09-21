@@ -36,7 +36,7 @@ npm start
 
 ### Desktop View
 
-![Desktop Screenshot](https://via.placeholder.com/800x500/6366f1/ffffff?text=Desktop+View)
+![Desktop Screenshot](notes.jpg)
 
 
 ## 🎯 Usage
