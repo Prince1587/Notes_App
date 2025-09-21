@@ -1,10 +1,9 @@
 # 📝 My Notes App
 
-A beautiful, modern notes application with glassmorphism design and auto-save functionality.
-
+A beautiful, modern notes application built with React and Tailwind CSS featuring glassmorphism design, auto-save functionality, and complete CRUD operations.
 ## 🌐 Live Demo
 
-[**View Live App**](https://your-app-url.com) | [**Screenshots**](#screenshots)
+[**View Live App**](https://your-app-url.com) 
 
 ## ✨ Features
 
@@ -39,13 +38,6 @@ npm start
 
 ![Desktop Screenshot](https://via.placeholder.com/800x500/6366f1/ffffff?text=Desktop+View)
 
-### Mobile View
-
-![Mobile Screenshot](https://via.placeholder.com/300x600/6366f1/ffffff?text=Mobile+View)
-
-### Features Demo
-
-![Features Demo](https://via.placeholder.com/800x400/8b5cf6/ffffff?text=Features+Demo)
 
 ## 🎯 Usage
 
@@ -68,15 +60,17 @@ npm start
 
 ## 🔧 File Structure
 
-```
 notes-app/
+├── public/
+│   └── index.html          # HTML template
 ├── src/
-│   ├── App.js
-│   ├── NotesApp.js
-│   └── index.css
-├── postcss.config.js
-└── tailwind.config.js
-```
+│   ├── App.js              # Main app wrapper
+│   ├── NotesApp.js         # Core notes component
+│   ├── index.js            # React root
+│   └── index.css           # Tailwind styles + custom CSS
+├── postcss.config.js       # PostCSS configuration
+├── tailwind.config.js      # Tailwind configuration
+└── package.json            # Dependencies and scripts
 
 ## 🚀 Deploy
 
