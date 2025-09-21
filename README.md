@@ -59,7 +59,7 @@ npm start
 ✅ Chrome | ✅ Firefox | ✅ Safari | ✅ Edge
 
 ## 🔧 File Structure
-....
+```
 notes-app/
 ├── public/
 │   └── index.html          # HTML template
@@ -71,7 +71,7 @@ notes-app/
 ├── postcss.config.js       # PostCSS configuration
 ├── tailwind.config.js      # Tailwind configuration
 └── package.json            # Dependencies and scripts
-....
+```
 ## 🚀 Deploy
 
 ### Netlify
