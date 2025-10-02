@@ -10,9 +10,6 @@ module.exports = {
         'pulse': 'pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite',
         'spin': 'spin 1s linear infinite',
         'bounce': 'bounce 1s infinite',
-      },
-      backdropBlur: {
-        'xs': '2px',
       }
     },
   },
